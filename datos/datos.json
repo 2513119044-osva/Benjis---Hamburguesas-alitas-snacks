@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hamburguesa Sencilla",
+        "descripcion": "Deliciosa hamburguesa sencilla.",
+        "ingredientes": "Pan, carne, lechuga, tomate, cebolla, queso amarillo, queso gouda, chile toreado y aderezos.",
+        "precio": 85
+    },
+
+    {
+
+        "id": 2,
+        "nombre": "Hamburguesa Hawaiana",
+        "descripcion": "Deliciosa hamburguesa hawaiana.",
+        "ingredientes": "Pan, carne, piña, jamón, queso amarillo, queso gouda, lechuga, tomate, chile toreado, cebolla y aderezos.",
+        "precio": 95
+    }
+
+
+]
